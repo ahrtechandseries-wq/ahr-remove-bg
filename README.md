@@ -1,1 +1,0 @@
-# ahr-remove-bg
